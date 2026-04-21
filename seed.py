@@ -1,8 +1,10 @@
-from database import SessionLocal
+from database import SessionLocal, engine
 import crud
 from schemas import NationCreate, PlayerCreate
 from csv import DictReader
-from models import Nation
+from models import Nation, Base
+
+Base.metadata.create_all(bind=engine)
 
 db = SessionLocal()
 
