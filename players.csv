@@ -1,0 +1,1023 @@
+name,age,position,jersey_number,nation
+Raïs M'Bolhi,39,Goalkeeper,1,Algeria
+Alexandre Oukidja,37,Goalkeeper,2,Algeria
+Lyès Zouari,25,Goalkeeper,3,Algeria
+Youcef Atal,28,Defender,4,Algeria
+Aïssa Mandi,33,Defender,5,Algeria
+Ramy Bensebaini,29,Defender,6,Algeria
+Djamel Benlamri,35,Defender,7,Algeria
+Ilyes Hamache,23,Defender,8,Algeria
+Samy Mmaee,29,Defender,9,Algeria
+Abdelkader Bedrane,26,Defender,10,Algeria
+Ismaël Bennacer,27,Midfielder,11,Algeria
+Haris Belkebla,30,Midfielder,12,Algeria
+Yacine Adli,25,Midfielder,13,Algeria
+Hicham Boudaoui,24,Midfielder,14,Algeria
+Ramiz Zerrouki,27,Midfielder,15,Algeria
+Houssem Aouar,27,Midfielder,16,Algeria
+Saïd Benrahma,29,Forward,17,Algeria
+Adam Ounas,28,Forward,18,Algeria
+Andy Delort,33,Forward,19,Algeria
+Youcef Belaili,32,Forward,20,Algeria
+Baghdad Bounedjah,32,Forward,21,Algeria
+Emiliano Martínez,33,Goalkeeper,1,Argentina
+Geronimo Rulli,33,Goalkeeper,2,Argentina
+Walter Benítez,31,Goalkeeper,3,Argentina
+Nahuel Molina,28,Defender,4,Argentina
+Gonzalo Montiel,28,Defender,5,Argentina
+Cristian Romero,28,Defender,6,Argentina
+Lisandro Martínez,28,Defender,7,Argentina
+Nicolás Otamendi,38,Defender,8,Argentina
+Nicolás Tagliafico,33,Defender,9,Argentina
+Germán Pezzella,35,Defender,10,Argentina
+Marcos Acuña,32,Defender,11,Argentina
+Alexis Mac Allister,27,Midfielder,12,Argentina
+Rodrigo De Paul,32,Midfielder,13,Argentina
+Enzo Fernández,25,Midfielder,14,Argentina
+Leandro Paredes,32,Midfielder,15,Argentina
+Exequiel Palacios,26,Midfielder,16,Argentina
+Thiago Almada,25,Midfielder,17,Argentina
+Lionel Messi,38,Forward,18,Argentina
+Lautaro Martínez,28,Forward,19,Argentina
+Julián Álvarez,26,Forward,20,Argentina
+Alejandro Garnacho,21,Forward,21,Argentina
+Nicolás González,28,Forward,22,Argentina
+Paulo Dybala,32,Forward,23,Argentina
+Mat Ryan,34,Goalkeeper,1,Australia
+Danny Vukovic,39,Goalkeeper,2,Australia
+Joe Gauci,24,Goalkeeper,3,Australia
+Milos Degenek,31,Defender,4,Australia
+Harry Souttar,26,Defender,5,Australia
+Kye Rowles,27,Defender,6,Australia
+Nathaniel Atkinson,25,Defender,7,Australia
+Aziz Behich,33,Defender,8,Australia
+Joel King,25,Defender,9,Australia
+Cameron Burgess,29,Defender,10,Australia
+Aaron Mooy,35,Midfielder,11,Australia
+Jackson Irvine,32,Midfielder,12,Australia
+Riley McGree,26,Midfielder,13,Australia
+Cameron Devlin,26,Midfielder,14,Australia
+Keanu Baccus,27,Midfielder,15,Australia
+Martin Boyle,32,Forward,16,Australia
+Mathew Leckie,35,Forward,17,Australia
+Mitchell Duke,34,Forward,18,Australia
+Jamie Maclaren,32,Forward,19,Australia
+Marco Tilio,24,Forward,20,Australia
+Craig Goodwin,33,Forward,21,Australia
+Patrick Pentz,27,Goalkeeper,1,Austria
+Alexander Schlager,31,Goalkeeper,2,Austria
+Heinz Lindner,34,Goalkeeper,3,Austria
+Stefan Posch,28,Defender,4,Austria
+Philipp Lienhart,29,Defender,5,Austria
+Kevin Danso,26,Defender,6,Austria
+Maximilian Wöber,27,Defender,7,Austria
+Philipp Mwene,32,Defender,8,Austria
+Gernot Trauner,33,Defender,9,Austria
+Nicolas Seiwald,24,Midfielder,10,Austria
+Florian Grillitsch,30,Midfielder,11,Austria
+Konrad Laimer,27,Midfielder,12,Austria
+Marcel Sabitzer,32,Midfielder,13,Austria
+Christoph Baumgartner,25,Midfielder,14,Austria
+Romano Schmid,25,Midfielder,15,Austria
+Patrick Wimmer,24,Midfielder,16,Austria
+Marko Arnautovic,37,Forward,17,Austria
+Michael Gregoritsch,32,Forward,18,Austria
+Andreas Weimann,33,Forward,19,Austria
+Guido Burgstaller,36,Forward,20,Austria
+Ercan Masovic,26,Defender,21,Austria
+Thibaut Courtois,34,Goalkeeper,1,Belgium
+Koen Casteels,33,Goalkeeper,2,Belgium
+Matz Sels,33,Goalkeeper,3,Belgium
+Timothy Castagne,30,Defender,4,Belgium
+Wout Faes,27,Defender,5,Belgium
+Arthur Theate,25,Defender,6,Belgium
+Thomas Meunier,33,Defender,7,Belgium
+Zeno Debast,22,Defender,8,Belgium
+Jan Vertonghen,39,Defender,9,Belgium
+Kevin De Bruyne,35,Midfielder,10,Belgium
+Youri Tielemans,29,Midfielder,11,Belgium
+Amadou Onana,23,Midfielder,12,Belgium
+Hans Vanaken,32,Midfielder,13,Belgium
+Orel Mangala,27,Midfielder,14,Belgium
+Axel Witsel,37,Midfielder,15,Belgium
+Romelu Lukaku,33,Forward,16,Belgium
+Lois Openda,25,Forward,17,Belgium
+Jeremy Doku,24,Forward,18,Belgium
+Charles De Ketelaere,25,Forward,19,Belgium
+Leandro Trossard,31,Forward,20,Belgium
+Dodi Lukebakio,27,Forward,21,Belgium
+Nikola Vasilj,30,Goalkeeper,1,Bosnia and Herzegovina
+Asmir Begović,38,Goalkeeper,2,Bosnia and Herzegovina
+Vedran Kjosevski,27,Goalkeeper,3,Bosnia and Herzegovina
+Sead Kolašinac,31,Defender,4,Bosnia and Herzegovina
+Anel Ahmedhodžić,27,Defender,5,Bosnia and Herzegovina
+Dario Šaric,31,Defender,6,Bosnia and Herzegovina
+Jusuf Gazibegovic,27,Defender,7,Bosnia and Herzegovina
+Ognjen Šturanović,27,Defender,8,Bosnia and Herzegovina
+Ermin Bičakčić,35,Defender,9,Bosnia and Herzegovina
+Miralem Pjanić,36,Midfielder,10,Bosnia and Herzegovina
+Rade Krunic,31,Midfielder,11,Bosnia and Herzegovina
+Haris Tahirović,22,Midfielder,12,Bosnia and Herzegovina
+Denis Huseinbašić,24,Midfielder,13,Bosnia and Herzegovina
+Benjamin Verbic,30,Midfielder,14,Bosnia and Herzegovina
+Nikola Ilić,25,Midfielder,15,Bosnia and Herzegovina
+Edin Džeko,40,Forward,16,Bosnia and Herzegovina
+Ermedin Demirović,27,Forward,17,Bosnia and Herzegovina
+Deni Juric,28,Forward,18,Bosnia and Herzegovina
+Armin Hodžić,31,Forward,19,Bosnia and Herzegovina
+Kenan Kodro,32,Forward,20,Bosnia and Herzegovina
+Alisson,33,Goalkeeper,1,Brazil
+Ederson,32,Goalkeeper,2,Brazil
+Bento,25,Goalkeeper,3,Brazil
+Danilo,35,Defender,4,Brazil
+Éder Militão,28,Defender,5,Brazil
+Marquinhos,32,Defender,6,Brazil
+Gabriel Magalhães,28,Defender,7,Brazil
+Wendell,32,Defender,8,Brazil
+Alex Telles,33,Defender,9,Brazil
+Guilherme Arana,29,Defender,10,Brazil
+Casemiro,34,Midfielder,11,Brazil
+Lucas Paquetá,28,Midfielder,12,Brazil
+Bruno Guimarães,27,Midfielder,13,Brazil
+Gerson,28,Midfielder,14,Brazil
+Andreas Pereira,30,Midfielder,15,Brazil
+Vinicius Junior,25,Forward,16,Brazil
+Rodrygo,24,Forward,17,Brazil
+Raphinha,29,Forward,18,Brazil
+Richarlison,29,Forward,19,Brazil
+Gabriel Jesus,29,Forward,20,Brazil
+Endrick,19,Forward,21,Brazil
+Gabriel Martinelli,25,Forward,22,Brazil
+Antony,26,Forward,23,Brazil
+Josimar Dias,28,Goalkeeper,1,Cabo Verde
+João Lima,30,Goalkeeper,2,Cabo Verde
+Nuno Borges,26,Goalkeeper,3,Cabo Verde
+Steven Fortes,33,Defender,4,Cabo Verde
+Stopira,36,Defender,5,Cabo Verde
+Rocha,29,Defender,6,Cabo Verde
+Jamiro Monteiro,30,Midfielder,7,Cabo Verde
+Garry Rodrigues,32,Forward,8,Cabo Verde
+Diney,27,Midfielder,9,Cabo Verde
+Djiby Dramé,25,Defender,10,Cabo Verde
+Willy Semedo,28,Defender,11,Cabo Verde
+Kenny Rocha,28,Midfielder,12,Cabo Verde
+Patrick Andrade,32,Midfielder,13,Cabo Verde
+Vagner,29,Forward,14,Cabo Verde
+Julio Tavares,32,Forward,15,Cabo Verde
+Orlando Sá,36,Forward,16,Cabo Verde
+Bebé,34,Forward,17,Cabo Verde
+Lisandro Semedo,26,Midfielder,18,Cabo Verde
+Milan Borjan,37,Goalkeeper,1,Canada
+Maxime Crépeau,30,Goalkeeper,2,Canada
+James Pantemis,28,Goalkeeper,3,Canada
+Alistair Johnston,26,Defender,4,Canada
+Kamal Miller,28,Defender,5,Canada
+Derek Cornelius,29,Defender,6,Canada
+Richie Laryea,30,Defender,7,Canada
+Sam Adekugbe,29,Defender,8,Canada
+Steven Vitoria,36,Defender,9,Canada
+Liam Fraser,29,Midfielder,10,Canada
+Stephen Eustaquio,27,Midfielder,11,Canada
+Ismaël Koné,23,Midfielder,12,Canada
+Jonathan Osorio,32,Midfielder,13,Canada
+Mark-Anthony Kaye,30,Midfielder,14,Canada
+Tajon Buchanan,26,Forward,15,Canada
+Alphonso Davies,25,Forward,16,Canada
+Jonathan David,25,Forward,17,Canada
+Cyle Larin,30,Forward,18,Canada
+Liam Millar,25,Forward,19,Canada
+Theo Corbeanu,23,Forward,20,Canada
+Charles-Andreas Brym,27,Forward,21,Canada
+Jacob Shaffelburg,25,Forward,22,Canada
+Camilo Vargas,35,Goalkeeper,1,Colombia
+David Ospina,37,Goalkeeper,2,Colombia
+Álvaro Montero,29,Goalkeeper,3,Colombia
+Daniel Muñoz,28,Defender,4,Colombia
+Davinson Sánchez,28,Defender,5,Colombia
+Yerry Mina,30,Defender,6,Colombia
+Johan Mojica,33,Defender,7,Colombia
+Carlos Cuesta,27,Defender,8,Colombia
+Deiver Machado,32,Defender,9,Colombia
+Mateus Uribe,33,Midfielder,10,Colombia
+Jefferson Lerma,30,Midfielder,11,Colombia
+Richard Rios,25,Midfielder,12,Colombia
+James Rodríguez,34,Midfielder,13,Colombia
+Jorge Carrascal,27,Midfielder,14,Colombia
+Luis Díaz,28,Forward,15,Colombia
+Luis Sinisterra,25,Forward,16,Colombia
+Rafael Santos Borré,29,Forward,17,Colombia
+Jhon Durán,21,Forward,18,Colombia
+Jhon Arias,28,Forward,19,Colombia
+Cucho Hernández,26,Forward,20,Colombia
+Gustavo Puerta,22,Midfielder,21,Colombia
+Nicolás Moreno,26,Midfielder,22,Colombia
+Elia Meschack,29,Goalkeeper,1,Congo DR
+Joel Kiassumbua,33,Goalkeeper,2,Congo DR
+Dimitri Bertaud,27,Goalkeeper,3,Congo DR
+Aaron Wan-Bissaka,27,Defender,4,Congo DR
+Chancel Mbemba,30,Defender,5,Congo DR
+Arthur Masuaku,31,Defender,6,Congo DR
+Axel Tuanzebe,28,Defender,7,Congo DR
+Dylan Batubinsika,27,Defender,8,Congo DR
+Marcel Lewis,23,Defender,9,Congo DR
+Gaël Kakuta,34,Midfielder,10,Congo DR
+Paul-José Mpoku,34,Midfielder,11,Congo DR
+Théo Bongonda,29,Midfielder,12,Congo DR
+Silas Wamangituka,26,Midfielder,13,Congo DR
+Cédric Bakambu,34,Forward,14,Congo DR
+Yoane Wissa,29,Forward,15,Congo DR
+Saturnin Lukoki,30,Forward,16,Congo DR
+Jonathan Bolingi,33,Forward,17,Congo DR
+Dodi Lukebakio,27,Forward,18,Congo DR
+Samuel Moutoussamy,29,Midfielder,19,Congo DR
+Jordan Ikoko,31,Defender,20,Congo DR
+Yahia Fofana,31,Goalkeeper,1,Côte d'Ivoire
+Badra Ali Sangaré,34,Goalkeeper,2,Côte d'Ivoire
+Simon Deli,33,Defender,3,Côte d'Ivoire
+Serge Aurier,33,Defender,4,Côte d'Ivoire
+Odilon Kossounou,24,Defender,5,Côte d'Ivoire
+Willy Boly,34,Defender,6,Côte d'Ivoire
+Ghislain Konan,29,Defender,7,Côte d'Ivoire
+Wilfried Singo,24,Defender,8,Côte d'Ivoire
+Seko Fofana,29,Midfielder,9,Côte d'Ivoire
+Franck Kessié,29,Midfielder,10,Côte d'Ivoire
+Ibrahim Sangaré,27,Midfielder,11,Côte d'Ivoire
+Cheick Oumar Dembélé,26,Midfielder,12,Côte d'Ivoire
+Jean Michaël Seri,33,Midfielder,13,Côte d'Ivoire
+Wilfried Zaha,33,Forward,14,Côte d'Ivoire
+Nicolas Pépé,31,Forward,15,Côte d'Ivoire
+Sébastien Haller,31,Forward,16,Côte d'Ivoire
+Maxwell Cornet,28,Forward,17,Côte d'Ivoire
+Jonathan Bamba,29,Forward,18,Côte d'Ivoire
+Karim Konaté,23,Forward,19,Côte d'Ivoire
+Simon Adingra,23,Forward,20,Côte d'Ivoire
+Oumar Diakité,27,Midfielder,21,Côte d'Ivoire
+Ali Gholizadeh,28,Midfielder,22,Côte d'Ivoire
+Dominik Livaković,29,Goalkeeper,1,Croatia
+Ivica Ivušić,30,Goalkeeper,2,Croatia
+Nediljko Labrović,26,Goalkeeper,3,Croatia
+Josip Šutalo,24,Defender,4,Croatia
+Joško Gvardiol,23,Defender,5,Croatia
+Martin Erlić,27,Defender,6,Croatia
+Borna Sosa,27,Defender,7,Croatia
+Josip Juranović,29,Defender,8,Croatia
+Domagoj Vida,35,Defender,9,Croatia
+Luka Modrić,40,Midfielder,10,Croatia
+Mateo Kovačić,32,Midfielder,11,Croatia
+Luka Sučić,23,Midfielder,12,Croatia
+Lovro Majer,27,Midfielder,13,Croatia
+Nikola Vlašić,28,Midfielder,14,Croatia
+Mario Pašalić,30,Midfielder,15,Croatia
+Andrej Kramarić,34,Forward,16,Croatia
+Bruno Petković,31,Forward,17,Croatia
+Marko Pjaca,30,Forward,18,Croatia
+Petar Musa,26,Forward,19,Croatia
+Ivan Perišić,37,Forward,20,Croatia
+Mislav Oršić,32,Forward,21,Croatia
+Eloy Room,33,Goalkeeper,1,Curaçao
+Gino van Kessel,28,Goalkeeper,2,Curaçao
+Darryl Lachman,33,Defender,3,Curaçao
+Dion Malone,34,Defender,4,Curaçao
+Leandro Bacuna,33,Midfielder,5,Curaçao
+Cuco Martina,35,Defender,6,Curaçao
+Riechedly Bazoer,29,Midfielder,7,Curaçao
+Rangelo Janga,32,Forward,8,Curaçao
+Jurien Gaari,29,Defender,9,Curaçao
+Quentin Bakuna,25,Midfielder,10,Curaçao
+Sheraldo Becker,30,Forward,11,Curaçao
+Brandley Kuwas,32,Forward,12,Curaçao
+Eliezer Britos,33,Midfielder,13,Curaçao
+Rajiv van La Parra,33,Forward,14,Curaçao
+Elson Hooi,31,Midfielder,15,Curaçao
+Felitciano Zschusschen,34,Midfielder,16,Curaçao
+Jarchinio Antonia,32,Forward,17,Curaçao
+Queensy Menig,30,Forward,18,Curaçao
+Jindřich Staněk,28,Goalkeeper,1,Czechia
+Tomáš Vaclík,36,Goalkeeper,2,Czechia
+Matěj Kovář,23,Goalkeeper,3,Czechia
+Vladimír Coufal,32,Defender,4,Czechia
+David Zima,25,Defender,5,Czechia
+Lukáš Holeš,32,Defender,6,Czechia
+Ondřej Čelůstka,36,Defender,7,Czechia
+David Jurásek,24,Defender,8,Czechia
+Michal Šadilek,25,Defender,9,Czechia
+Tomáš Souček,31,Midfielder,10,Czechia
+Alexej Jirka,23,Midfielder,11,Czechia
+Lukáš Provod,28,Midfielder,12,Czechia
+Alex Král,27,Midfielder,13,Czechia
+Adam Hložek,23,Forward,14,Czechia
+Patrik Schick,30,Forward,15,Czechia
+Tomáš Chorý,29,Forward,16,Czechia
+Matěj Juránek,23,Midfielder,17,Czechia
+Ondřej Lingr,27,Midfielder,18,Czechia
+Jan Kuchta,28,Forward,19,Czechia
+Adam Karabec,23,Midfielder,20,Czechia
+Pavel Šulc,25,Forward,21,Czechia
+Hernán Galíndez,36,Goalkeeper,1,Ecuador
+Alexander Domínguez,36,Goalkeeper,2,Ecuador
+Wellington Ramírez,26,Goalkeeper,3,Ecuador
+Angelo Preciado,26,Defender,4,Ecuador
+Piero Hincapié,24,Defender,5,Ecuador
+Robert Arboleda,33,Defender,6,Ecuador
+Félix Torres,28,Defender,7,Ecuador
+Byron Castillo,28,Defender,8,Ecuador
+Diego Palacios,26,Defender,9,Ecuador
+Moisés Caicedo,24,Midfielder,10,Ecuador
+Carlos Gruezo,29,Midfielder,11,Ecuador
+Jeremy Sarmiento,23,Midfielder,12,Ecuador
+Kevin Rodríguez,24,Midfielder,13,Ecuador
+Romario Ibarra,30,Midfielder,14,Ecuador
+Enner Valencia,36,Forward,15,Ecuador
+Gonzalo Plata,24,Forward,16,Ecuador
+Michael Estrada,28,Forward,17,Ecuador
+Djorkaeff Reasco,25,Forward,18,Ecuador
+Alan Minda,26,Forward,19,Ecuador
+Jordy Caicedo,32,Forward,20,Ecuador
+Sandro Estupiñán,26,Defender,21,Ecuador
+Mohamed El-Shennawy,37,Goalkeeper,1,Egypt
+Sherif Ekramy,36,Goalkeeper,2,Egypt
+Ahmed El-Shenawy,37,Goalkeeper,3,Egypt
+Ahmed Hegazi,34,Defender,4,Egypt
+Omar El Abd,36,Defender,5,Egypt
+Akram Tawfik,26,Defender,6,Egypt
+Mahmoud Hamdy,32,Defender,7,Egypt
+Mohamed Hamdy,29,Defender,8,Egypt
+Omar Kamal,24,Defender,9,Egypt
+Tarek Hamed,36,Midfielder,10,Egypt
+Mohamed Salah,34,Forward,11,Egypt
+Trezeguet,31,Forward,12,Egypt
+Ramadan Sobhi,28,Midfielder,13,Egypt
+Omar Marmoush,26,Forward,14,Egypt
+Mostafa Mohamed,27,Forward,15,Egypt
+Ahmed Abdelkader,27,Midfielder,16,Egypt
+Salah Mohsen,29,Forward,17,Egypt
+Zizo,31,Midfielder,18,Egypt
+Emad Meteb,31,Forward,19,Egypt
+Amr Warda,31,Forward,20,Egypt
+Hamdi Fathi,30,Midfielder,21,Egypt
+Jordan Pickford,32,Goalkeeper,1,England
+Sam Johnstone,33,Goalkeeper,2,England
+Nick Pope,34,Goalkeeper,3,England
+Trent Alexander-Arnold,28,Defender,4,England
+Kyle Walker,36,Defender,5,England
+Harry Maguire,33,Defender,6,England
+John Stones,32,Defender,7,England
+Luke Shaw,31,Defender,8,England
+Reece James,27,Defender,9,England
+Levi Colwill,23,Defender,10,England
+Ezri Konsa,28,Defender,11,England
+Jude Bellingham,23,Midfielder,12,England
+Declan Rice,27,Midfielder,13,England
+Kobbie Mainoo,21,Midfielder,14,England
+Phil Foden,26,Midfielder,15,England
+Conor Gallagher,26,Midfielder,16,England
+Harry Kane,33,Forward,17,England
+Bukayo Saka,25,Forward,18,England
+Marcus Rashford,29,Forward,19,England
+Ollie Watkins,30,Forward,20,England
+Jack Grealish,31,Forward,21,England
+Jarrod Bowen,30,Forward,22,England
+Ivan Toney,30,Forward,23,England
+Mike Maignan,30,Goalkeeper,1,France
+Alphonse Areola,33,Goalkeeper,2,France
+Brice Samba,31,Goalkeeper,3,France
+Jules Koundé,28,Defender,4,France
+Benjamin Pavard,30,Defender,5,France
+Dayot Upamecano,27,Defender,6,France
+William Saliba,25,Defender,7,France
+Ibrahima Konaté,27,Defender,8,France
+Theo Hernandez,28,Defender,9,France
+Lucas Digne,33,Defender,10,France
+Aurélien Tchouaméni,26,Midfielder,11,France
+Eduardo Camavinga,23,Midfielder,12,France
+Adrien Rabiot,31,Midfielder,13,France
+Warren Zaïre-Emery,20,Midfielder,14,France
+Mattéo Guendouzi,27,Midfielder,15,France
+Kylian Mbappé,27,Forward,16,France
+Antoine Griezmann,35,Forward,17,France
+Ousmane Dembélé,29,Forward,18,France
+Marcus Thuram,28,Forward,19,France
+Kingsley Coman,30,Forward,20,France
+Randal Kolo Muani,27,Forward,21,France
+Bradley Barcola,23,Forward,22,France
+Oliver Baumann,35,Goalkeeper,1,Germany
+Marc-André ter Stegen,34,Goalkeeper,2,Germany
+Alexander Nübel,29,Goalkeeper,3,Germany
+Joshua Kimmich,31,Defender,4,Germany
+Jonathan Tah,30,Defender,5,Germany
+Nico Schlotterbeck,26,Defender,6,Germany
+David Raum,27,Defender,7,Germany
+Malick Thiaw,24,Defender,8,Germany
+Waldemar Anton,29,Defender,9,Germany
+Ridle Baku,27,Defender,10,Germany
+Antonio Rüdiger,33,Defender,11,Germany
+Maximilian Mittelstädt,28,Defender,12,Germany
+Aleksandar Pavlović,21,Midfielder,13,Germany
+Leon Goretzka,31,Midfielder,14,Germany
+Angelo Stiller,24,Midfielder,15,Germany
+Felix Nmecha,25,Midfielder,16,Germany
+Florian Wirtz,23,Midfielder,17,Germany
+Jamal Musiala,23,Midfielder,18,Germany
+Lennart Karl,24,Midfielder,19,Germany
+Serge Gnabry,31,Forward,20,Germany
+Kai Havertz,27,Forward,21,Germany
+Leroy Sané,30,Forward,22,Germany
+Deniz Undav,29,Forward,23,Germany
+Karim Adeyemi,24,Forward,24,Germany
+Nick Woltemade,24,Forward,25,Germany
+Jonathan Burkardt,25,Forward,26,Germany
+Lawrence Ati-Zigi,28,Goalkeeper,1,Ghana
+Jojo Wollacott,29,Goalkeeper,2,Ghana
+Abdul Manaf Nurudeen,25,Goalkeeper,3,Ghana
+Tariq Lamptey,25,Defender,4,Ghana
+Andy Yiadom,33,Defender,5,Ghana
+Alexander Djiku,30,Defender,6,Ghana
+Daniel Amartey,30,Defender,7,Ghana
+Abdul Alhassan Salis,25,Defender,8,Ghana
+Baba Rahman,31,Defender,9,Ghana
+Thomas Partey,33,Midfielder,10,Ghana
+Mohammed Kudus,25,Midfielder,11,Ghana
+Daniel Kofi Kyereh,28,Midfielder,12,Ghana
+Iddrisu Baba,29,Midfielder,13,Ghana
+Salis Abdul Samed,25,Midfielder,14,Ghana
+Jordan Ayew,34,Forward,15,Ghana
+André Ayew,36,Forward,16,Ghana
+Antoine Semenyo,25,Forward,17,Ghana
+Kamaldeen Sulemana,23,Forward,18,Ghana
+Iñaki Williams,32,Forward,19,Ghana
+Osman Bukari,26,Forward,20,Ghana
+Ransford-Yeboah Königsdörffer,23,Forward,21,Ghana
+James Léandre,29,Goalkeeper,1,Haiti
+Frantzdy Pierrot,30,Goalkeeper,2,Haiti
+Josue Duverger,26,Goalkeeper,3,Haiti
+Mechack Jérôme,34,Defender,4,Haiti
+Jean-Élie Olognier,26,Defender,5,Haiti
+Kervens Belfort,30,Defender,6,Haiti
+Gerd Chancy,34,Defender,7,Haiti
+Bernardo Pierre,27,Defender,8,Haiti
+Wilde-Donald Guerrier,34,Midfielder,9,Haiti
+Duckens Nazon,32,Forward,10,Haiti
+Derrick Étienne,29,Midfielder,11,Haiti
+Jonel Désiré,27,Midfielder,12,Haiti
+Renaud Quentin,30,Midfielder,13,Haiti
+Jhon Piette,34,Midfielder,14,Haiti
+Jude Déronvil,29,Midfielder,15,Haiti
+Kevin Lafrance,31,Forward,16,Haiti
+Jean-Pierre Nazon,36,Forward,17,Haiti
+Gershom Binamungu,24,Forward,18,Haiti
+Steeven Saba,30,Forward,19,Haiti
+Moise Caio,25,Forward,20,Haiti
+Alireza Beiranvand,32,Goalkeeper,1,IR Iran
+Hossein Hosseini,29,Goalkeeper,2,IR Iran
+Amir Abedzadeh,31,Goalkeeper,3,IR Iran
+Sadegh Moharrami,29,Defender,4,IR Iran
+Shojae Khalilzadeh,35,Defender,5,IR Iran
+Majid Hosseini,27,Defender,6,IR Iran
+Milad Mohammadi,30,Defender,7,IR Iran
+Hossein Kanaanizadegan,28,Defender,8,IR Iran
+Morteza Pouraliganji,34,Defender,9,IR Iran
+Saeid Ezatolahi,28,Midfielder,10,IR Iran
+Ali Gholizadeh,28,Midfielder,11,IR Iran
+Ahmad Noorollahi,30,Midfielder,12,IR Iran
+Saman Ghoddos,31,Midfielder,13,IR Iran
+Allahyar Sayyadmanesh,24,Forward,14,IR Iran
+Mehdi Taremi,32,Forward,15,IR Iran
+Sardar Azmoun,30,Forward,16,IR Iran
+Karim Ansarifard,36,Forward,17,IR Iran
+Roozbeh Cheshmi,29,Midfielder,18,IR Iran
+Ehsan Pahlevan,26,Defender,19,IR Iran
+Ali Karimi,27,Midfielder,20,IR Iran
+Shahriar Mohammadi,25,Forward,21,IR Iran
+Jalal Hassan,37,Goalkeeper,1,Iraq
+Fahad Talal,28,Goalkeeper,2,Iraq
+Qusay Munir,25,Goalkeeper,3,Iraq
+Ali Adnan,32,Defender,4,Iraq
+Hussein Ali,27,Defender,5,Iraq
+Amjad Atwan,28,Defender,6,Iraq
+Bashar Resan,27,Defender,7,Iraq
+Rebin Sulaka,26,Defender,8,Iraq
+Ali Jasim,28,Defender,9,Iraq
+Ahmed Yasin,32,Midfielder,10,Iraq
+Alaa Abbas,29,Midfielder,11,Iraq
+Hammadi Ahmed,30,Midfielder,12,Iraq
+Saad Natiq,28,Midfielder,13,Iraq
+Humam Tariq,26,Midfielder,14,Iraq
+Aymen Hussein,28,Forward,15,Iraq
+Mohanad Abdulraheem,29,Forward,16,Iraq
+Ali Faez,27,Forward,17,Iraq
+Ahmed Salam,26,Forward,18,Iraq
+Alaa Mohammed,28,Forward,19,Iraq
+Ibrahim Bayesh,30,Midfielder,20,Iraq
+Karrar Mohammed,25,Midfielder,21,Iraq
+Shuichi Gonda,36,Goalkeeper,1,Japan
+Daniel Schmidt,35,Goalkeeper,2,Japan
+Zion Suzuki,23,Goalkeeper,3,Japan
+Hiroki Ito,26,Defender,4,Japan
+Ko Itakura,28,Defender,5,Japan
+Miki Yamane,31,Defender,6,Japan
+Takehiro Tomiyasu,27,Defender,7,Japan
+Yuto Nagatomo,40,Defender,8,Japan
+Maya Yoshida,37,Defender,9,Japan
+Wataru Endo,32,Midfielder,10,Japan
+Ao Tanaka,26,Midfielder,11,Japan
+Hidemasa Morita,30,Midfielder,12,Japan
+Daichi Kamada,29,Midfielder,13,Japan
+Ritsu Doan,27,Forward,14,Japan
+Junya Ito,32,Forward,15,Japan
+Kaoru Mitoma,28,Forward,16,Japan
+Takefusa Kubo,24,Forward,17,Japan
+Ayase Ueda,27,Forward,18,Japan
+Takumi Minamino,32,Forward,19,Japan
+Koki Ogawa,26,Forward,20,Japan
+Shuto Machino,26,Forward,21,Japan
+Keito Nakamura,25,Forward,22,Japan
+Amer Shafi,38,Goalkeeper,1,Jordan
+Yazeed Abo Laila,30,Goalkeeper,2,Jordan
+Musa Al-Taamari,27,Forward,3,Jordan
+Abdallah Nasib,28,Defender,4,Jordan
+Ahmad Assaf,30,Defender,5,Jordan
+Amer Jamous,32,Defender,6,Jordan
+Baha Faisal,26,Defender,7,Jordan
+Ehab Refaa,30,Defender,8,Jordan
+Ahmad Zyoud,28,Midfielder,9,Jordan
+Ibrahim Saad,29,Midfielder,10,Jordan
+Yahia Nader,27,Midfielder,11,Jordan
+Mohammad Abu Zema,26,Midfielder,12,Jordan
+Noor Al-Rawabdeh,25,Midfielder,13,Jordan
+Samer Al-Swaidat,31,Midfielder,14,Jordan
+Salem Al-Ajalin,30,Forward,15,Jordan
+Mahmoud Al-Mardi,27,Forward,16,Jordan
+Yazan Al-Naimat,23,Forward,17,Jordan
+Bashar Bani Yaseen,28,Defender,18,Jordan
+Hasan Abdel-Fattah,29,Midfielder,19,Jordan
+Kim Seung-gyu,36,Goalkeeper,1,Korean Republic
+Jo Hyeon-woo,33,Goalkeeper,2,Korean Republic
+Song Bum-keun,27,Goalkeeper,3,Korean Republic
+Kim Moon-hwan,30,Defender,4,Korean Republic
+Kim Jin-su,33,Defender,5,Korean Republic
+Kim Min-jae,28,Defender,6,Korean Republic
+Jung Seung-hyun,30,Defender,7,Korean Republic
+Kim Young-gwon,35,Defender,8,Korean Republic
+Lee Ki-je,31,Defender,9,Korean Republic
+Hwang In-beom,29,Midfielder,10,Korean Republic
+Lee Jae-sung,32,Midfielder,11,Korean Republic
+Jung Woo-young,35,Midfielder,12,Korean Republic
+Lee Kang-in,24,Midfielder,13,Korean Republic
+Seol Young-woo,25,Midfielder,14,Korean Republic
+Son Heung-min,34,Forward,15,Korean Republic
+Hwang Hee-chan,29,Forward,16,Korean Republic
+Cho Gue-sung,27,Forward,17,Korean Republic
+Hwang Ui-jo,33,Forward,18,Korean Republic
+Oh Hyeon-gyu,24,Forward,19,Korean Republic
+Bae Jun-ho,23,Midfielder,20,Korean Republic
+Park Hyun-bin,26,Forward,21,Korean Republic
+Guillermo Ochoa,40,Goalkeeper,1,Mexico
+Luis Malagón,28,Goalkeeper,2,Mexico
+Rodolfo Cota,36,Goalkeeper,3,Mexico
+Jorge Sánchez,27,Defender,4,Mexico
+César Montes,28,Defender,5,Mexico
+Johan Vásquez,27,Defender,6,Mexico
+Gilberto Sepúlveda,29,Defender,7,Mexico
+Jesús Gallardo,30,Defender,8,Mexico
+Luis Rodríguez,34,Defender,9,Mexico
+Edson Álvarez,27,Midfielder,10,Mexico
+Héctor Herrera,35,Midfielder,11,Mexico
+Charly Rodríguez,25,Midfielder,12,Mexico
+Orbelín Pineda,29,Midfielder,13,Mexico
+Roberto Alvarado,27,Midfielder,14,Mexico
+Julián Araujo,23,Defender,15,Mexico
+Hirving Lozano,31,Forward,16,Mexico
+Alexis Vega,29,Forward,17,Mexico
+Henry Martín,33,Forward,18,Mexico
+Santiago Giménez,24,Forward,19,Mexico
+Raúl Jiménez,35,Forward,20,Mexico
+Carlos Antuna,28,Forward,21,Mexico
+Uriel Antuna,27,Forward,22,Mexico
+Yassine Bounou,33,Goalkeeper,1,Morocco
+Ahmed Reda Tagnaouti,30,Goalkeeper,2,Morocco
+Munir El Kajoui,31,Goalkeeper,3,Morocco
+Achraf Hakimi,27,Defender,4,Morocco
+Noussair Mazraoui,27,Defender,5,Morocco
+Romain Saiss,35,Defender,6,Morocco
+Nayef Aguerd,28,Defender,7,Morocco
+Jawad El Yamiq,34,Defender,8,Morocco
+Adam Masina,30,Defender,9,Morocco
+Yahia Attiat-Allah,33,Defender,10,Morocco
+Sofyan Amrabat,29,Midfielder,11,Morocco
+Azzedine Ounahi,25,Midfielder,12,Morocco
+Selim Amallah,29,Midfielder,13,Morocco
+Bilal El Khannouss,21,Midfielder,14,Morocco
+Ilias Chair,28,Midfielder,15,Morocco
+Hakim Ziyech,33,Forward,16,Morocco
+Youssef En-Nesyri,28,Forward,17,Morocco
+Anass Zaroury,24,Forward,18,Morocco
+Sofiane Boufal,31,Forward,19,Morocco
+Zakaria Aboukhlal,25,Forward,20,Morocco
+Abdessamad Ezzalzouli,24,Forward,21,Morocco
+Ibrahim Salah,26,Midfielder,22,Morocco
+Bart Verbruggen,22,Goalkeeper,1,Netherlands
+Justin Bijlow,27,Goalkeeper,2,Netherlands
+Mark Flekken,31,Goalkeeper,3,Netherlands
+Denzel Dumfries,29,Defender,4,Netherlands
+Matthijs de Ligt,27,Defender,5,Netherlands
+Virgil van Dijk,35,Defender,6,Netherlands
+Nathan Aké,31,Defender,7,Netherlands
+Stefan de Vrij,35,Defender,8,Netherlands
+Jeremie Frimpong,25,Defender,9,Netherlands
+Ian Maatsen,24,Defender,10,Netherlands
+Xavi Simons,23,Midfielder,11,Netherlands
+Tijjani Reijnders,27,Midfielder,12,Netherlands
+Ryan Gravenberch,24,Midfielder,13,Netherlands
+Frenkie de Jong,29,Midfielder,14,Netherlands
+Teun Koopmeiners,28,Midfielder,15,Netherlands
+Noa Lang,26,Forward,16,Netherlands
+Cody Gakpo,26,Forward,17,Netherlands
+Donyell Malen,27,Forward,18,Netherlands
+Brian Brobbey,24,Forward,19,Netherlands
+Wout Weghorst,33,Forward,20,Netherlands
+Memphis Depay,32,Forward,21,Netherlands
+Stefan Marinovic,34,Goalkeeper,1,New Zealand
+Michael Woud,29,Goalkeeper,2,New Zealand
+Tim Payne,26,Goalkeeper,3,New Zealand
+Liberato Cacace,24,Defender,4,New Zealand
+Nando Pijnaker,29,Defender,5,New Zealand
+Michael Boxall,37,Defender,6,New Zealand
+Winston Reid,36,Defender,7,New Zealand
+Dane Ingham,32,Defender,8,New Zealand
+Joe Bell,27,Midfielder,9,New Zealand
+Elijah Just,24,Midfielder,10,New Zealand
+Clayton Lewis,29,Midfielder,11,New Zealand
+Bill Tuilagi,26,Midfielder,12,New Zealand
+Callum Elliot,23,Midfielder,13,New Zealand
+Alex Greive,25,Forward,14,New Zealand
+Chris Wood,34,Forward,15,New Zealand
+Myer Bevan,26,Forward,16,New Zealand
+Ben Waine,25,Forward,17,New Zealand
+Tommie Smith,27,Forward,18,New Zealand
+Matt Garbett,27,Midfielder,19,New Zealand
+Rune Jarstein,39,Goalkeeper,1,Norway
+Ørjan Nyland,34,Goalkeeper,2,Norway
+Kristoffer Klaesson,24,Goalkeeper,3,Norway
+Leo Skiri Østigård,27,Defender,4,Norway
+Andreas Hanche-Olsen,29,Defender,5,Norway
+Stian Gregersen,30,Defender,6,Norway
+Julian Ryerson,28,Defender,7,Norway
+Birger Meling,30,Defender,8,Norway
+Jonas Svensson,32,Defender,9,Norway
+Sander Berge,27,Midfielder,10,Norway
+Fredrik Aursnes,29,Midfielder,11,Norway
+Morten Thorsby,29,Midfielder,12,Norway
+Kristian Thorstvedt,26,Midfielder,13,Norway
+Martin Ødegaard,27,Midfielder,14,Norway
+Patrick Berg,27,Midfielder,15,Norway
+Erling Haaland,26,Forward,16,Norway
+Alexander Sørloth,29,Forward,17,Norway
+Jørgen Strand Larsen,25,Forward,18,Norway
+Mohamed Elyounoussi,32,Forward,19,Norway
+Ola Solbakken,25,Forward,20,Norway
+Andreas Schjelderup,21,Forward,21,Norway
+Mathias Normann,29,Midfielder,22,Norway
+Luis Mejía,28,Goalkeeper,1,Panama
+Orlando Mosquera,28,Goalkeeper,2,Panama
+César Blackman,26,Goalkeeper,3,Panama
+José Luis Rodríguez,29,Defender,4,Panama
+Fidel Escobar,30,Defender,5,Panama
+Eric Davis,34,Defender,6,Panama
+Harold Cummings,30,Defender,7,Panama
+Iván Anderson,28,Defender,8,Panama
+Michael Murillo,29,Defender,9,Panama
+Anibal Godoy,35,Midfielder,10,Panama
+Adalberto Carrasquilla,27,Midfielder,11,Panama
+Édgar Bárcenas,30,Midfielder,12,Panama
+Aníbal Godoy,35,Midfielder,13,Panama
+Rolando Blackburn,32,Forward,14,Panama
+Cecilio Waterman,32,Forward,15,Panama
+Abdiel Arroyo,29,Forward,16,Panama
+Freddie Góndola,27,Forward,17,Panama
+Ismael Díaz,27,Forward,18,Panama
+Gabriel Torres,36,Forward,19,Panama
+José Fajardo,30,Forward,20,Panama
+Cristian Martínez,26,Midfielder,21,Panama
+Antony Silva,37,Goalkeeper,1,Paraguay
+Alfredo Aguilar,28,Goalkeeper,2,Paraguay
+Carlos Coronel,29,Goalkeeper,3,Paraguay
+Robert Rojas,29,Defender,4,Paraguay
+Gustavo Gómez,31,Defender,5,Paraguay
+Fabián Balbuena,33,Defender,6,Paraguay
+Omar Alderete,28,Defender,7,Paraguay
+Blas Riveros,27,Defender,8,Paraguay
+Santiago Arzamendia,27,Defender,9,Paraguay
+Richard Sánchez,30,Midfielder,10,Paraguay
+Rodrigo Rojas,30,Midfielder,11,Paraguay
+Mathías Villasanti,28,Midfielder,12,Paraguay
+Miguel Almirón,32,Midfielder,13,Paraguay
+Gastón Giménez,31,Midfielder,14,Paraguay
+Braian Ojeda,25,Midfielder,15,Paraguay
+Ángel Romero,33,Forward,16,Paraguay
+Julio Enciso,21,Forward,17,Paraguay
+Antonio Sanabria,29,Forward,18,Paraguay
+Matías Rojas,28,Midfielder,19,Paraguay
+Silvio Romero,36,Forward,20,Paraguay
+Enso González,22,Midfielder,21,Paraguay
+Diogo Costa,26,Goalkeeper,1,Portugal
+Rui Patrício,38,Goalkeeper,2,Portugal
+José Sá,32,Goalkeeper,3,Portugal
+Diogo Dalot,27,Defender,4,Portugal
+João Cancelo,32,Defender,5,Portugal
+Rúben Dias,28,Defender,6,Portugal
+António Silva,23,Defender,7,Portugal
+Nuno Mendes,24,Defender,8,Portugal
+Nélson Semedo,32,Defender,9,Portugal
+João Palhinha,31,Midfielder,10,Portugal
+Bernardo Silva,32,Midfielder,11,Portugal
+Bruno Fernandes,32,Midfielder,12,Portugal
+Vitinha,26,Midfielder,13,Portugal
+João Neves,22,Midfielder,14,Portugal
+Rúben Neves,30,Midfielder,15,Portugal
+Cristiano Ronaldo,41,Forward,16,Portugal
+Rafael Leão,27,Forward,17,Portugal
+Gonçalo Ramos,24,Forward,18,Portugal
+Diogo Jota,30,Forward,19,Portugal
+Pedro Neto,26,Forward,20,Portugal
+João Félix,27,Forward,21,Portugal
+Francisco Conceição,23,Forward,22,Portugal
+Meshaal Barsham,27,Goalkeeper,1,Qatar
+Saad Al Sheeb,33,Goalkeeper,2,Qatar
+Yousuf Hassan,28,Goalkeeper,3,Qatar
+Pedro Miguel,35,Defender,4,Qatar
+Bassam Al-Rawi,31,Defender,5,Qatar
+Abdelkarim Hassan,31,Defender,6,Qatar
+Mohammed Waad,29,Defender,7,Qatar
+Naif Al-Hadhrami,27,Defender,8,Qatar
+Ahmed Alaaeldin,32,Midfielder,9,Qatar
+Assim Madibo,28,Midfielder,10,Qatar
+Ali Assadalla,32,Midfielder,11,Qatar
+Karim Boudiaf,32,Midfielder,12,Qatar
+Ismaël Mohammad,28,Midfielder,13,Qatar
+Homam Ahmed,25,Midfielder,14,Qatar
+Akram Afif,28,Forward,15,Qatar
+Almoez Ali,28,Forward,16,Qatar
+Hasan Al-Haydos,33,Forward,17,Qatar
+Salem Al-Hajri,27,Forward,18,Qatar
+Mohammed Muntari,29,Forward,19,Qatar
+Abdullah Al-Ahrak,27,Forward,20,Qatar
+Boualem Khoukhi,34,Midfielder,21,Qatar
+Mohammed Al-Owais,33,Goalkeeper,1,Saudi Arabia
+Mohammed Al-Rubaie,28,Goalkeeper,2,Saudi Arabia
+Ahmed Al-Qassar,26,Goalkeeper,3,Saudi Arabia
+Sultan Al-Ghanam,29,Defender,4,Saudi Arabia
+Ali Al-Bulaihi,33,Defender,5,Saudi Arabia
+Hassan Al-Tambakti,26,Defender,6,Saudi Arabia
+Yasser Al-Shahrani,31,Defender,7,Saudi Arabia
+Abdulelah Al-Malki,25,Defender,8,Saudi Arabia
+Mohammed Al-Burayk,29,Defender,9,Saudi Arabia
+Mohamed Kanno,29,Midfielder,10,Saudi Arabia
+Abdulellah Al-Malki,25,Midfielder,11,Saudi Arabia
+Sami Al-Najei,31,Midfielder,12,Saudi Arabia
+Riyadh Sharahili,29,Midfielder,13,Saudi Arabia
+Nasser Al-Dawsari,33,Midfielder,14,Saudi Arabia
+Salem Al-Dawsari,32,Forward,15,Saudi Arabia
+Firas Al-Buraikan,25,Forward,16,Saudi Arabia
+Saleh Al-Shehri,31,Forward,17,Saudi Arabia
+Abdullah Radif,25,Forward,18,Saudi Arabia
+Ali Hassan Yalahawi,28,Forward,19,Saudi Arabia
+Marwan Al-Sahafi,27,Midfielder,20,Saudi Arabia
+Taiseer Al-Jassam,26,Forward,21,Saudi Arabia
+Craig Gordon,42,Goalkeeper,1,Scotland
+Angus Gunn,29,Goalkeeper,2,Scotland
+Zander Clark,33,Goalkeeper,3,Scotland
+Aaron Hickey,24,Defender,4,Scotland
+Andrew Robertson,32,Defender,5,Scotland
+Jack Hendry,30,Defender,6,Scotland
+Liam Cooper,33,Defender,7,Scotland
+Grant Hanley,34,Defender,8,Scotland
+Nathan Patterson,25,Defender,9,Scotland
+Ryan Porteous,27,Defender,10,Scotland
+Scott McTominay,29,Midfielder,11,Scotland
+Callum McGregor,32,Midfielder,12,Scotland
+John McGinn,31,Midfielder,13,Scotland
+Billy Gilmour,26,Midfielder,14,Scotland
+Stuart Armstrong,33,Midfielder,15,Scotland
+Ryan Christie,30,Midfielder,16,Scotland
+Ryan Jack,33,Midfielder,17,Scotland
+Kenny McLean,33,Midfielder,18,Scotland
+Che Adams,30,Forward,19,Scotland
+Lyndon Dykes,31,Forward,20,Scotland
+Lawrence Shankland,30,Forward,21,Scotland
+Liam Scales,27,Defender,22,Scotland
+Édouard Mendy,32,Goalkeeper,1,Senegal
+Alfred Gomis,31,Goalkeeper,2,Senegal
+Seny Dieng,31,Goalkeeper,3,Senegal
+Youssouf Sabaly,33,Defender,4,Senegal
+Kalidou Koulibaly,35,Defender,5,Senegal
+Abdou Diallo,29,Defender,6,Senegal
+Ismail Jakobs,24,Defender,7,Senegal
+Fodé Ballo-Touré,28,Defender,8,Senegal
+Moussa Wagué,28,Defender,9,Senegal
+Idrissa Gana Gueye,36,Midfielder,10,Senegal
+Cheikhou Kouyaté,34,Midfielder,11,Senegal
+Nampalys Mendy,34,Midfielder,12,Senegal
+Pape Matar Sarr,22,Midfielder,13,Senegal
+Lamine Camara,21,Midfielder,14,Senegal
+Pathé Ciss,30,Midfielder,15,Senegal
+Sadio Mané,34,Forward,16,Senegal
+Ismaïla Sarr,27,Forward,17,Senegal
+Nicolas Jackson,24,Forward,18,Senegal
+Boulaye Dia,28,Forward,19,Senegal
+Iliman Ndiaye,25,Forward,20,Senegal
+Habib Diallo,30,Forward,21,Senegal
+Krepin Diatta,26,Forward,22,Senegal
+Ronwen Williams,33,Goalkeeper,1,South Africa
+Veli Mothwa,34,Goalkeeper,2,South Africa
+Bruce Bvuma,31,Goalkeeper,3,South Africa
+Reeve Frosler,27,Defender,4,South Africa
+Siyanda Xulu,33,Defender,5,South Africa
+Rushine de Reuck,30,Defender,6,South Africa
+Thibang Phete,27,Defender,7,South Africa
+Sibusiso Mabiliso,26,Defender,8,South Africa
+Khuliso Mudau,28,Defender,9,South Africa
+Bongani Zungu,31,Midfielder,10,South Africa
+Themba Zwane,33,Midfielder,11,South Africa
+Yusuf Maart,30,Midfielder,12,South Africa
+Teboho Mokoena,28,Midfielder,13,South Africa
+Mothobi Mvala,31,Midfielder,14,South Africa
+Sphephelo Sithole,27,Midfielder,15,South Africa
+Percy Tau,31,Forward,16,South Africa
+Lyle Foster,25,Forward,17,South Africa
+Evidence Makgopa,26,Forward,18,South Africa
+Thulani Serero,34,Midfielder,19,South Africa
+Grant Kekana,31,Defender,20,South Africa
+Bradley Cross,28,Defender,21,South Africa
+Unai Simón,28,Goalkeeper,1,Spain
+David Raya,30,Goalkeeper,2,Spain
+Robert Sánchez,28,Goalkeeper,3,Spain
+Dani Carvajal,34,Defender,4,Spain
+Alejandro Balde,22,Defender,5,Spain
+Aymeric Laporte,32,Defender,6,Spain
+Pau Cubarsí,19,Defender,7,Spain
+Marc Cucurella,27,Defender,8,Spain
+Eric García,24,Defender,9,Spain
+Pedri,24,Midfielder,10,Spain
+Fabian Ruiz,29,Midfielder,11,Spain
+Rodri,30,Midfielder,12,Spain
+Dani Olmo,28,Midfielder,13,Spain
+Gavi,22,Midfielder,14,Spain
+Mikel Merino,29,Midfielder,15,Spain
+Lamine Yamal,19,Forward,16,Spain
+Nico Williams,23,Forward,17,Spain
+Alvaro Morata,33,Forward,18,Spain
+Ferran Torres,26,Forward,19,Spain
+Joselu,35,Forward,20,Spain
+Bryan Gil,25,Forward,21,Spain
+Marcos Llorente,31,Midfielder,22,Spain
+Robin Olsen,37,Goalkeeper,1,Sweden
+Karl-Johan Johnsson,33,Goalkeeper,2,Sweden
+Oscar Jonsson,25,Goalkeeper,3,Sweden
+Victor Nilsson Lindelöf,31,Defender,4,Sweden
+Marcus Danielson,34,Defender,5,Sweden
+Emil Krafth,30,Defender,6,Sweden
+Ludwig Augustinsson,32,Defender,7,Sweden
+Filip Helander,33,Defender,8,Sweden
+Carl Starfelt,30,Defender,9,Sweden
+Jens Cajuste,26,Midfielder,10,Sweden
+Mattias Svanberg,27,Midfielder,11,Sweden
+Samuel Gustafson,32,Midfielder,12,Sweden
+Dejan Kulusevski,26,Midfielder,13,Sweden
+Emil Forsberg,35,Midfielder,14,Sweden
+Gustav Svensson,36,Midfielder,15,Sweden
+Viktor Gyökeres,28,Forward,16,Sweden
+Alexander Isak,27,Forward,17,Sweden
+Jordan Larsson,28,Forward,18,Sweden
+Robin Quaison,31,Forward,19,Sweden
+Isaac Kiese Thelin,34,Forward,20,Sweden
+Muamer Tankovic,30,Forward,21,Sweden
+Yann Sommer,37,Goalkeeper,1,Switzerland
+Gregor Kobel,28,Goalkeeper,2,Switzerland
+Yvon Mvogo,30,Goalkeeper,3,Switzerland
+Silvan Widmer,32,Defender,4,Switzerland
+Manuel Akanji,30,Defender,5,Switzerland
+Nico Elvedi,28,Defender,6,Switzerland
+Ricardo Rodriguez,33,Defender,7,Switzerland
+Fabian Schär,33,Defender,8,Switzerland
+Kevin Mbabu,30,Defender,9,Switzerland
+Granit Xhaka,34,Midfielder,10,Switzerland
+Remo Freuler,33,Midfielder,11,Switzerland
+Denis Zakaria,30,Midfielder,12,Switzerland
+Fabian Rieder,23,Midfielder,13,Switzerland
+Michel Aebischer,28,Midfielder,14,Switzerland
+Dan Ndoye,25,Forward,15,Switzerland
+Noah Okafor,25,Forward,16,Switzerland
+Zeki Amdouni,24,Forward,17,Switzerland
+Breel Embolo,29,Forward,18,Switzerland
+Ruben Vargas,26,Forward,19,Switzerland
+Edimilson Fernandes,30,Midfielder,20,Switzerland
+Renato Steffen,33,Forward,21,Switzerland
+Aymen Dahmen,28,Goalkeeper,1,Tunisia
+Mouez Hassan,31,Goalkeeper,2,Tunisia
+Bechir Ben Said,32,Goalkeeper,3,Tunisia
+Dylan Bronn,30,Defender,4,Tunisia
+Yassine Meriah,32,Defender,5,Tunisia
+Ali Abdi,28,Defender,6,Tunisia
+Montassar Talbi,26,Defender,7,Tunisia
+Wajdi Kechrida,30,Defender,8,Tunisia
+Mohamed Drager,28,Defender,9,Tunisia
+Ellyes Skhiri,30,Midfielder,10,Tunisia
+Hannibal Mejbri,23,Midfielder,11,Tunisia
+Anis Ben Slimane,25,Midfielder,12,Tunisia
+Ghailene Chaalali,32,Midfielder,13,Tunisia
+Ferjani Sassi,34,Midfielder,14,Tunisia
+Hamza Rafia,26,Midfielder,15,Tunisia
+Youssef Msakni,35,Forward,16,Tunisia
+Issam Jebali,31,Forward,17,Tunisia
+Seifeddine Jaziri,33,Forward,18,Tunisia
+Naïm Sliti,32,Forward,19,Tunisia
+Nizar Issaoui,29,Forward,20,Tunisia
+Sayfallah Ltaief,27,Forward,21,Tunisia
+Altay Bayındır,27,Goalkeeper,1,Türkiye
+Uğurcan Çakır,29,Goalkeeper,2,Türkiye
+Mert Günok,36,Goalkeeper,3,Türkiye
+Zeki Çelik,29,Defender,4,Türkiye
+Merih Demiral,27,Defender,5,Türkiye
+Kaan Ayhan,30,Defender,6,Türkiye
+Samet Akaydın,29,Defender,7,Türkiye
+Ferdi Kadıoğlu,25,Defender,8,Türkiye
+Ozan Kabak,26,Defender,9,Türkiye
+Rıdvan Yılmaz,24,Defender,10,Türkiye
+Hakan Çalhanoğlu,32,Midfielder,11,Türkiye
+Salih Özcan,27,Midfielder,12,Türkiye
+Abdülkadir Ömür,27,Midfielder,13,Türkiye
+Orkun Kökçü,25,Midfielder,14,Türkiye
+İrfan Can Kahveci,30,Midfielder,15,Türkiye
+Arda Güler,20,Forward,16,Türkiye
+Yusuf Yazıcı,28,Forward,17,Türkiye
+Kerem Aktürkoğlu,26,Forward,18,Türkiye
+Cengiz Ünder,29,Forward,19,Türkiye
+Barış Alper Yılmaz,25,Forward,20,Türkiye
+Halil Dervişoğlu,26,Forward,21,Türkiye
+Yunus Akgün,25,Forward,22,Türkiye
+Matt Turner,31,Goalkeeper,1,United States
+Matt Freese,26,Goalkeeper,2,United States
+Ethan Horvath,30,Goalkeeper,3,United States
+Sergino Dest,26,Defender,4,United States
+Miles Robinson,28,Defender,5,United States
+Mark McKenzie,27,Defender,6,United States
+Chris Richards,25,Defender,7,United States
+Joe Scally,23,Defender,8,United States
+Antonee Robinson,28,Defender,9,United States
+Walker Zimmerman,33,Defender,10,United States
+Cameron Carter-Vickers,28,Defender,11,United States
+Tyler Adams,27,Midfielder,12,United States
+Weston McKennie,27,Midfielder,13,United States
+Yunus Musah,23,Midfielder,14,United States
+Gio Reyna,23,Midfielder,15,United States
+Brenden Aaronson,25,Midfielder,16,United States
+Luca de la Torre,27,Midfielder,17,United States
+Christian Pulisic,28,Forward,18,United States
+Tim Weah,26,Forward,19,United States
+Ricardo Pepi,23,Forward,20,United States
+Folarin Balogun,24,Forward,21,United States
+Cade Cowell,23,Forward,22,United States
+Josh Sargent,27,Forward,23,United States
+Sergio Rochet,31,Goalkeeper,1,Uruguay
+Fernando Muslera,39,Goalkeeper,2,Uruguay
+Martín Campaña,33,Goalkeeper,3,Uruguay
+Ronald Araújo,27,Defender,4,Uruguay
+José María Giménez,31,Defender,5,Uruguay
+Sebastián Coates,34,Defender,6,Uruguay
+Matías Viña,27,Defender,7,Uruguay
+Guillermo Varela,33,Defender,8,Uruguay
+Nahitan Nandez,29,Midfielder,9,Uruguay
+Rodrigo Bentancur,29,Midfielder,10,Uruguay
+Lucas Torreira,30,Midfielder,11,Uruguay
+Nicolás De La Cruz,28,Midfielder,12,Uruguay
+Giorgian De Arrascaeta,31,Midfielder,13,Uruguay
+Mateo Gómez,24,Midfielder,14,Uruguay
+Federico Valverde,28,Forward,15,Uruguay
+Darwin Núñez,27,Forward,16,Uruguay
+Facundo Pellistri,25,Forward,17,Uruguay
+Luis Suárez,39,Forward,18,Uruguay
+Brian Rodríguez,26,Forward,19,Uruguay
+Diego Rossi,27,Forward,20,Uruguay
+Maxi Gómez,29,Forward,21,Uruguay
+Jonathan Rodríguez,31,Forward,22,Uruguay
+Utkir Yusupov,31,Goalkeeper,1,Uzbekistan
+Sarvarbek Tursunov,26,Goalkeeper,2,Uzbekistan
+Akbar Dzhalilov,29,Goalkeeper,3,Uzbekistan
+Azizbek Yunusov,25,Defender,4,Uzbekistan
+Sherzod Nasrullayev,27,Defender,5,Uzbekistan
+Dostonbek Khamdamov,28,Defender,6,Uzbekistan
+Otabek Shukurov,26,Defender,7,Uzbekistan
+Nodir Tursunov,30,Defender,8,Uzbekistan
+Ibrokhim Omonov,27,Defender,9,Uzbekistan
+Jaloliddin Masharipov,31,Midfielder,10,Uzbekistan
+Bobur Abdixoliqov,27,Midfielder,11,Uzbekistan
+Abbosbek Fayzullayev,23,Midfielder,12,Uzbekistan
+Otabek Zokirov,28,Midfielder,13,Uzbekistan
+Sardor Rashidov,26,Midfielder,14,Uzbekistan
+Marat Bikmaev,27,Midfielder,15,Uzbekistan
+Eldor Shomurodov,29,Forward,16,Uzbekistan
+Javokhir Sidiqov,27,Forward,17,Uzbekistan
+Khojiakbar Alijonov,25,Forward,18,Uzbekistan
+Hojimat Erkinov,24,Forward,19,Uzbekistan
+Bekzod Hamroyev,26,Forward,20,Uzbekistan
+Umid Bektemirov,24,Forward,21,Uzbekistan
