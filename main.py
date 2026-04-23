@@ -8,7 +8,7 @@ import os
 api_key = os.getenv("API_KEY")
 
 def verify_api_key(x_api_key: str = Header(None)):
-    if x_api_key != api_key:
+    if not x_api_key or x_api_key != api_key:
         raise HTTPException(status_code=401, detail="Invalid API Key")
 
 models.Base.metadata.create_all(bind=engine)
