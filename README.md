@@ -74,3 +74,64 @@ https://worldcup2026-api.onrender.com/docs
 ---
 
 ## 🚀 Run Locally
+
+### Prerequisites
+- Python 3.11+
+- pip3
+
+### Setup
+ 
+**1. Clone the repository**
+```bash
+git clone https://github.com/AnhTaiLe06/WorldCup2026-API.git
+cd WorldCup2026-API
+```
+ 
+**2. Create and activate a virtual environment**
+```bash
+python3 -m venv venv
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate     # Windows
+```
+ 
+**3. Install dependencies**
+```bash
+pip3 install -r requirements.txt
+```
+ 
+**4. Seed the database**
+```bash
+python3 seed.py
+```
+ 
+**5. Start the server**
+```bash
+uvicorn main:app --reload
+```
+ 
+The API will be running at `http://127.0.0.1:8000`. Visit `http://127.0.0.1:8000/docs` for the interactive documentation.
+ 
+---
+
+## 🛠️ Tech Stack
+ 
+| Tool | Purpose |
+|------|---------|
+| Python | Programming language |
+| FastAPI | API framework |
+| SQLAlchemy | ORM / database management |
+| SQLite | Database |
+| Uvicorn | ASGI server |
+| Render | Cloud deployment |
+
+---
+ 
+## 🤝 Contributing
+ 
+Contributions are welcome! If you spot incorrect player data or want to add stats after the tournament starts, feel free to open a pull request.
+ 
+---
+ 
+## 📄 License
+ 
+This project is open source and available under the [MIT License](LICENSE).
