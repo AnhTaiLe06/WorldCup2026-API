@@ -1,8 +1,15 @@
-from fastapi import FastAPI, Depends
+from fastapi import FastAPI, Depends, Header, HTTPException
 from database import SessionLocal, engine
 from schemas import NationResponse, NationCreate, PlayerCreate, PlayerResponse
 from sqlalchemy.orm import Session
 import crud, models
+import os
+
+api_key = os.getenv("API_KEY")
+
+def verify_api_key(x_api_key: str = Header(None)):
+    if x_api_key != api_key:
+        raise HTTPException(status_code=401, detail="Invalid API Key")
 
 models.Base.metadata.create_all(bind=engine)
 
@@ -20,7 +27,7 @@ def root():
     return {"message": "World cup 2026 API"}
 
 @app.post("/nations", response_model=NationResponse)
-def post_nation(nation: NationCreate, db: Session = Depends(get_db)):
+def post_nation(nation: NationCreate, db: Session = Depends(get_db), _: None = Depends(verify_api_key)):
     return crud.create_nation(db, nation)
 
 @app.get("/nations", response_model=list[NationResponse])
@@ -32,7 +39,7 @@ def get_nation_by_id(nation_id: int, db: Session = Depends(get_db)):
     return crud.get_nation_by_id(db, nation_id)
 
 @app.post("/players", response_model=PlayerResponse)
-def post_player(player: PlayerCreate, db: Session = Depends(get_db)):
+def post_player(player: PlayerCreate, db: Session = Depends(get_db), _: None = Depends(verify_api_key)):
     return crud.create_player(db, player)
 
 @app.get("/players", response_model=list[PlayerResponse])
